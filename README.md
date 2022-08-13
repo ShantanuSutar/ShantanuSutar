@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/shantanusutar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shantanusutar17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shantanu-sutar-425591238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu-sutar-425591238" height="30" width="40" /></a>
-<a href="https://instagram.com/shantanusutar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantanusutar17" height="30" width="40" /></a>
+<a href="https://instagram.com/shantanusutar17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantanu.sutar.17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shantanu-sutar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shantanu-sutar" height="30" width="40" /></a>
 </p>
 
