@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shantanu Sutar</h1>
-
 [![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)](https://ShantanuSutar.io)
+<h1 align="center">Hi 👋, I'm Shantanu Sutar</h1>
 <h3 align="center">A Web-Dev enthusiast currently pursuing IT degree at PCCOE, Pune.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
