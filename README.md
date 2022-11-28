@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/shantanusutar17" target="blank"><img src="https://img.shields.io/twitter/follow/shantanusutar17?logo=twitter&style=for-the-badge" alt="shantanusutar17" /></a> </p>
 
-- 🔭 I’m currently working on [WebDev](https://github.com/ShantanuSutar/WebDev)
+- 🔭 I’m currently working on [FrontEnd Development](https://github.com/ShantanuSutar/React)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **shantanusutar17@gmail.com**
 
