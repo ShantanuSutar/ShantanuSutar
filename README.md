@@ -1,4 +1,6 @@
-[![MasterHead](https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif)](https://ShantanuSutar.io)
+<div align="center">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="shantanusutar" />
+</div>
 <h1 align="center">Hi 👋, I'm Shantanu Sutar</h1>
 <h3 align="center">A Web-Dev enthusiast currently pursuing IT degree at PCCOE, Pune.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
